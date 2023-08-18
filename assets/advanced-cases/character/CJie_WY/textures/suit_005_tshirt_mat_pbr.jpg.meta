@@ -34,7 +34,7 @@
     }
   },
   "userData": {
-    "fixAlphaTransparencyArtifacts": true,
+    "fixAlphaTransparencyArtifacts": false,
     "hasAlpha": false,
     "type": "texture",
     "redirect": "65334d0f-2fd7-442e-8b88-1f43f20dc5ae@6c48a"

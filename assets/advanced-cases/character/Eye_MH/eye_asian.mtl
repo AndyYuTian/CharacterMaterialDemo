@@ -72,11 +72,11 @@
     {
       "roughness": 0.06,
       "mainTexture": {
-        "__uuid__": "c2606248-65e1-4ca5-9f51-5edfca982081@6c48a",
+        "__uuid__": "abd87bea-9fe0-4445-b6c6-4361ed43833d@6c48a",
         "__expectedType__": "cc.Texture2D"
       },
       "normalMap": {
-        "__uuid__": "dc2c4ec6-86c5-44c2-9812-4c8101fea092@6c48a",
+        "__uuid__": "0070ed06-05cb-45cf-9473-15e4a2a8eb02@6c48a",
         "__expectedType__": "cc.Texture2D"
       },
       "irisGradientMap": {
@@ -88,7 +88,7 @@
         "__expectedType__": "cc.Texture2D"
       },
       "veinsColorMap": {
-        "__uuid__": "6ee20da0-3ca9-4d9c-9ee7-f4e711ae5155@6c48a",
+        "__uuid__": "2dbbeb2c-55c3-40ed-92a7-7e34198eb29a@6c48a",
         "__expectedType__": "cc.Texture2D"
       },
       "irisNormalMap": {
