@@ -63,19 +63,7 @@
         "a": 255
       },
       "roughness": 1,
-      "specularIntensity": 0.1,
-      "mainTexture": {
-        "__uuid__": "f21427fe-8363-4ad9-98de-175fe8b61e62@6c48a",
-        "__expectedType__": "cc.Texture2D"
-      },
-      "normalMap": {
-        "__uuid__": "01b74983-e021-44e8-99d7-5b6e43fe1756@6c48a",
-        "__expectedType__": "cc.Texture2D"
-      },
-      "pbrMap": {
-        "__uuid__": "7625da36-9788-4bbc-88b6-0eab1f58bc4e@6c48a",
-        "__expectedType__": "cc.Texture2D"
-      }
+      "specularIntensity": 0.1
     },
     {},
     {},

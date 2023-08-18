@@ -89,11 +89,11 @@
         "__expectedType__": "cc.Texture2D"
       },
       "normalMap": {
-        "__uuid__": "63c74c4b-f7dd-41a4-9c6b-2a45b5a705e5@6c48a",
+        "__uuid__": "c2ef7d08-1c22-49c1-8d0c-6c7b94bb07e5@6c48a",
         "__expectedType__": "cc.Texture2D"
       },
       "pbrMap": {
-        "__uuid__": "a513afa7-cb56-4bfb-a6d4-e7c23bd29510@6c48a",
+        "__uuid__": "65334d0f-2fd7-442e-8b88-1f43f20dc5ae@6c48a",
         "__expectedType__": "cc.Texture2D"
       }
     },

@@ -150,7 +150,7 @@
       }
     ],
     "fbx": {
-      "smartMaterialEnabled": true
+      "smartMaterialEnabled": false
     },
     "redirect": "dff94f3a-9e8a-4aa7-bfb8-5027a7ba5720@5f0f0",
     "lods": {

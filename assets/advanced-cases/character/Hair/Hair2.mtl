@@ -125,7 +125,6 @@
         "__uuid__": "c2f2cd8c-aa1e-4fbe-9624-08413e9d3e02@6c48a",
         "__expectedType__": "cc.Texture2D"
       },
-      "transparencyMap": null,
       "normalMap": {
         "__uuid__": "1aa72c7f-93ce-43a8-a218-d5ad158db03e@6c48a",
         "__expectedType__": "cc.Texture2D"
@@ -163,14 +162,9 @@
         "__uuid__": "c2f2cd8c-aa1e-4fbe-9624-08413e9d3e02@6c48a",
         "__expectedType__": "cc.Texture2D"
       },
-      "transparencyMap": null,
       "normalMap": {
         "__uuid__": "1aa72c7f-93ce-43a8-a218-d5ad158db03e@6c48a",
         "__expectedType__": "cc.Texture2D"
-      },
-      "pbrMap": {
-        "__uuid__": "dd291476-1f68-4cde-a6ef-75b4c5153dfd@6c48a",
-        "__expectedType__": "cc.TextureBase"
       },
       "roughnessTRT": 0.1,
       "IntensityTRT": 3,
@@ -205,14 +199,9 @@
         "__uuid__": "c2f2cd8c-aa1e-4fbe-9624-08413e9d3e02@6c48a",
         "__expectedType__": "cc.Texture2D"
       },
-      "transparencyMap": null,
       "normalMap": {
         "__uuid__": "1aa72c7f-93ce-43a8-a218-d5ad158db03e@6c48a",
         "__expectedType__": "cc.Texture2D"
-      },
-      "pbrMap": {
-        "__uuid__": "dd291476-1f68-4cde-a6ef-75b4c5153dfd@6c48a",
-        "__expectedType__": "cc.TextureBase"
       },
       "roughnessTRT": 0.1,
       "IntensityTRT": 3,

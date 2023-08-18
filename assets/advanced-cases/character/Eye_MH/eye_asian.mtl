@@ -2,6 +2,7 @@
   "__type__": "cc.Material",
   "_name": "",
   "_objFlags": 0,
+  "__editorExtras__": {},
   "_native": "",
   "_effectAsset": {
     "__uuid__": "f0475923-826e-45dc-85cc-b5d9c2b220e9",
@@ -17,9 +18,19 @@
     },
     {},
     {},
+    {},
     {}
   ],
   "_states": [
+    {
+      "rasterizerState": {},
+      "depthStencilState": {},
+      "blendState": {
+        "targets": [
+          {}
+        ]
+      }
+    },
     {
       "rasterizerState": {},
       "depthStencilState": {},
@@ -68,10 +79,6 @@
         "__uuid__": "dc2c4ec6-86c5-44c2-9812-4c8101fea092@6c48a",
         "__expectedType__": "cc.Texture2D"
       },
-      "occlusionMap": {
-        "__uuid__": "76481a61-f886-4621-a27b-fa197684ccfd@6c48a",
-        "__expectedType__": "cc.Texture2D"
-      },
       "irisGradientMap": {
         "__uuid__": "6ba85702-92d1-4bf9-bc51-20e91723869c@6c48a",
         "__expectedType__": "cc.Texture2D"
@@ -104,6 +111,7 @@
       "causticsPosition": 0.28,
       "causticsWidth": 0.274
     },
+    {},
     {},
     {},
     {}
