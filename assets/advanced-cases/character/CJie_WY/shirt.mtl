@@ -11,7 +11,6 @@
   "_techIdx": 0,
   "_defines": [
     {
-      "USE_TWOSIDE": true,
       "USE_NORMAL_MAP": true,
       "USE_ALBEDO_MAP": true,
       "USE_PBR_MAP": true
@@ -24,7 +23,9 @@
   ],
   "_states": [
     {
-      "rasterizerState": {},
+      "rasterizerState": {
+        "cullMode": 0
+      },
       "depthStencilState": {},
       "blendState": {
         "targets": [
