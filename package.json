@@ -1,9 +1,7 @@
 {
   "creator": {
     "version": "3.8.0",
-    "dependencies": {
-      "localization-editor": "1.0.1"
-    },
+    "dependencies": {},
     "registry": {
       "remote": {}
     }
